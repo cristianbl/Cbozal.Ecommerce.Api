@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBozal.Api.Ecommerce", "CBozal.Api.Ecommerce\CBozal.Api.Ecommerce.csproj", "{AE9344B8-37C7-44B8-9247-529FB7A1DD4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9344B8-37C7-44B8-9247-529FB7A1DD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9344B8-37C7-44B8-9247-529FB7A1DD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9344B8-37C7-44B8-9247-529FB7A1DD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9344B8-37C7-44B8-9247-529FB7A1DD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6F8D4F-8969-4066-942C-A2B37B8CF92E}
+	EndGlobalSection
+EndGlobal
